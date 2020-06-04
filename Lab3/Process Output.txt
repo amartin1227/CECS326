@@ -1,0 +1,12 @@
+Creating the processes:
+	Swim mill process has started (pid: 17892)
+	Shared memory was created (shmid: 1638401)
+	Fish process has started (pid: 17893)
+	Pellet process has started (pid: 17894)
+
+Killing the children processes and exiting swim mill:
+	Fish process has been killed (pid: 17893)
+	Pellet process has been killed (pid: 17894)
+	Deallocating the shared memory (shmid: 1638401)
+	Removing the semaphore.
+	Exiting the swim mill (pid: 17892)

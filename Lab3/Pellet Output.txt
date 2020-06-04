@@ -1,0 +1,16 @@
+Pellet tracker: 
+lumn: 2, tid: 20033536)
+		Total pellets eaten: 1
+	Pellet eaten (column: 3, tid: 20570112)
+		Total pellets eaten: 2
+	Pellet missed (column: 9, tid: 21106688)
+	Pellet eaten (column: 5, tid: 21643264)
+		Total pellets eaten: 3
+	Pellet missed (column: 0, tid: 22179840)
+	Pellet missed (column: 1, tid: 22716416)
+	Pellet missed (column: 0, tid: 23252992)
+	Pellet missed (column: 10, tid: 23789568)
+	Pellet missed (column: 7, tid: 24326144)
+	Pellet missed (column: 8, tid: 24862720)
+	Pellet eaten (column: 0, tid: 25399296)
+		Total pellets eaten: 4
